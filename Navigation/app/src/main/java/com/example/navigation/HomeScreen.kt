@@ -26,6 +26,8 @@ fun HomeScreen(
             .fillMaxSize()
     ) {
         Text(
+            //when this text is clicked, new screen called Detail Screen is opened
+            //and Home Screen goes to back stack
             modifier = modifier.clickable {
                 navController.navigate(route = Screen.Detail.route)
             },
