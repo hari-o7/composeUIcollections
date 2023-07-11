@@ -1,6 +1,8 @@
 --this is a guide to create a simple navigation between two screens
 
-![Image 1](Navigation/Image1.png)
+![Image 1](Image1.png)
+![Image 1](Image2.png)
+
 
 
 --steps:
