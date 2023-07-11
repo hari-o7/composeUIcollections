@@ -1,6 +1,6 @@
 --this is a guide to create a simple navigation between two screens
 
-<img alt="Image1" src="/Users/harijoshi/Desktop/Screenshot 2023-07-11 at 08.12.36.png"/>
+![Image1](http://Users/harijoshi/Desktop/Screenshot 2023-07-11 at 08.12.36.png)
 
 
 --steps:
