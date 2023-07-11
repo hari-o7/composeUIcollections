@@ -1,6 +1,6 @@
 --this is a guide to create a simple navigation between two screens
 
-![Image 1](/Users/harijoshi/developerMode/androidDev/UI_designs/Navigation/Image1.png)
+![Image 1](Navigation/Image1.png)
 
 
 --steps:
