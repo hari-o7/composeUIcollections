@@ -1,7 +1,11 @@
 --this is a guide to create a simple navigation between two screens
 
-![Image 1](Image1.png)
-![Image 1](Image2.png)
+
+<div align="center">
+  <img src="Image.png" alt="Image 1" width="400" />
+  <img src="Image2.png" alt="Image 2" width="400" />
+</div>
+
 
 
 
